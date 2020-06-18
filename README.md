@@ -1,2 +1,2 @@
 # diabetics_patients
-it will diaplay the record of pateints who are suffering from diabetics 
+it will display the record of pateints who are suffering from diabetics 
